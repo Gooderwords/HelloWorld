@@ -1,3 +1,3 @@
 # HelloWorld
-!st Android App
+First Android App
 I'm learning this nub code.
